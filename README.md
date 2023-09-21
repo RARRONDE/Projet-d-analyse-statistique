@@ -1,5 +1,5 @@
 
-## Analyse statistique des ventes d'une librairie
+## Analyse statistique des ventes d'une librairie avec Python
 ![alt text](https://img.shields.io/badge/JUPYTER-F37626.svg?style=for-the-badge&logo=JUPYTER&logoColor=white)
 ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![alt text](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
